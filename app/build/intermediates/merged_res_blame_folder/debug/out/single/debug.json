@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.calculator.app-merged_res-31:/drawable_ic_app_icon.xml.flat",
+        "source": "com.example.calculator.app-main-33:/drawable/ic_app_icon.xml"
+    },
+    {
+        "merged": "com.example.calculator.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.calculator.app-main-33:/layout/activity_main.xml"
+    }
+]

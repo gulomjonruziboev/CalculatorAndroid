@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color display_bg
+color key_action
+color key_number
+color key_operator
+color on_surface
+color purple_500
+color purple_700
+color surface
+drawable ic_app_icon
+id btn0
+id btn1
+id btn2
+id btn3
+id btn4
+id btn5
+id btn6
+id btn7
+id btn8
+id btn9
+id btnAdd
+id btnBackspace
+id btnClear
+id btnDivide
+id btnDot
+id btnEquals
+id btnMultiply
+id btnSubtract
+id display
+id keypad
+layout activity_main
+string app_name
+string clear
+style Theme.Calculator
